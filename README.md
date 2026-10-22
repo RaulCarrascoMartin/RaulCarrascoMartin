@@ -1,13 +1,13 @@
-# Hola, soy Raúl Carrasco Martín 👋
+# Hola, soy Raúl Carrasco Martín 
 
 **Desarrollador de Aplicaciones Web (DAW)** · Me apasiona construir aplicaciones web y aprender algo nuevo cada día.
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-- 🎓 Titulado en **Desarrollo de Aplicaciones Web (DAW)**
-- 🔭 Trabajando en proyectos *full stack*: del diseño de la base de datos al despliegue
-- 🌱 Seguiré aprendiendo: contenedores, desarrollo en Swift y buenas prácticas de código
-- 🤝 Abierto a oportunidades, colaboraciones y proyectos nuevos
+- Titulado en **Desarrollo de Aplicaciones Web (DAW)**
+- Trabajando en proyectos *full stack*: del diseño de la base de datos al despliegue
+- Seguiré aprendiendo: contenedores, desarrollo en Swift y buenas prácticas de código
+- Abierto a oportunidades, colaboraciones y proyectos nuevos
 
 ## 🛠️ Tecnologías
 
